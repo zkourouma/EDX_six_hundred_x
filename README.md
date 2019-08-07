@@ -1,3 +1,5 @@
+# moved to [gitlab](https://gitlab.com/zkourouma/EDX_six_hundred_x)
+
 EDX_six_hundred_x
 =================
 
